@@ -1,0 +1,30 @@
+[33mcommit be35b350cf92b04c1b2ac37770119331ab254333[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5a99e88 bf408c6
+Author: dscore <bhanwar.mali@dotsquares.com>
+Date:   Tue Dec 14 10:22:08 2021 +0530
+
+    commit after conflict
+
+[33mcommit 5a99e883790cceb9ad8fd0be616b862bf22e9a2d[m[33m ([m[1;31morigion/master[m[33m)[m
+Author: dscore <bhanwar.mali@dotsquares.com>
+Date:   Tue Dec 14 09:53:39 2021 +0530
+
+    new changes
+
+[33mcommit bf408c66c0cf6670d6e98718287be1a6186de24f[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: dscore <bhanwar.mali@dotsquares.com>
+Date:   Tue Dec 14 09:50:49 2021 +0530
+
+    feature1 commit
+
+[33mcommit 793a1ff3c37d7090c18ef486882fe7b77d87a5df[m[33m ([m[1;32mfeature2[m[33m)[m
+Author: dscore <bhanwar.mali@dotsquares.com>
+Date:   Tue Dec 14 09:43:53 2021 +0530
+
+    secound commit
+
+[33mcommit 6a1f98f8d5b63f34591dee0a9b223bcb7c57cd62[m
+Author: dscore <bhanwar.mali@dotsquares.com>
+Date:   Tue Dec 14 09:40:53 2021 +0530
+
+    first commit
