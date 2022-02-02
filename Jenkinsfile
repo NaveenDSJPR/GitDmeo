@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Clean') {
             steps {
-                 bat "docker rm --f mypipelineweb || true"
+                 bat "docker rm -f mypipelineweb || true"
             }
         }
         stage('Deploy') {
